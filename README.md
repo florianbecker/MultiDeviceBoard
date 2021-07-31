@@ -5,9 +5,9 @@ MultiDeviceBoard for mobile games, like Pokemon Go.
 <img src="screenshots/top.v2.jpg" alt="Top View V2" width="800" height="450"/>
 
 ## Screenshots
-<img src="screenshots/without.device.jpg" alt="Top View V2" width="300" height="169"/><img src="screenshots/downview.fan.slots.jpg" alt="Fan Slots" width="300" height="169"/><img src="screenshots/fan.mount.jpg" alt="Fan Mount" width="300" height="169"/>
+<img src="screenshots/without.device.jpg" alt="Top View V2" width="250" height="141"/><img src="screenshots/downview.fan.slots.jpg" alt="Fan Slots" width="250" height="141"/><img src="screenshots/fan.mount.jpg" alt="Fan Mount" width="250" height="141"/>
 
-<img src="screenshots/top.one.device.jpg" alt="Top One Device" width="300" height="169"/><img src="screenshots/sideview2.jpg" alt="Sideview" width="300" height="169"/>
+<img src="screenshots/top.one.device.jpg" alt="Top One Device" width="250" height="141"/><img src="screenshots/sideview2.jpg" alt="Sideview" width="250" height="141"/>
 
 <img src="screenshots/mobile.mount.jpg" alt="Mobile Mount" width="169" height="300"/><img src="screenshots/sideview.powerbank.jpg" alt="Sideview Powerbank" width="169" height="300"/><img src="screenshots/powerbank.jpg" alt="Powerbank" width="169" height="300"/><img src="screenshots/sideview.jpg" alt="Sideview" width="169" height="300"/>
 
