@@ -15,7 +15,7 @@ MultiDeviceBoard for mobile games, like Pokemon Go.
 
 Found the dxf files inside data.
 
-<img src="data/mobileboard_top_V2.png" alt="Top View V2" width="800" height="565"/>
+<img src="data/mobileboard_top_V3.png" alt="Top View V3" width="800" height="566"/>
 
 ## Used Parts
 
